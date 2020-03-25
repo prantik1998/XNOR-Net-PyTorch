@@ -1,0 +1,6 @@
+dir: "data"
+lr: 0.00005
+epochs: 25
+batchsize: 128
+modelpath: "models/model"
+pretrained: D:\XNOR-Net-PyTorch\CIFAR_10\models\model16.pth.tar
